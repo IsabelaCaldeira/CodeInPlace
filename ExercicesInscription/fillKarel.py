@@ -1,5 +1,4 @@
-
-from karel.stanfordkarel import *
+from stanfordkarel import *
 
 """
 Karel should fill the whole world with beepers.

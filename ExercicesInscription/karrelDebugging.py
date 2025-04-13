@@ -1,3 +1,5 @@
+from stanfordkarel import *
+
 """
 Assumes that Karel starts in the bottom of a world filled with beepers
 Picks up all the beepers in the first two rows
