@@ -1,4 +1,4 @@
-## 🚀 Code in Place Standford
+## 🚀 Code in Place Stanford
 
 Welcome to the Code in PLace exercies! But what is code in place? 
 
