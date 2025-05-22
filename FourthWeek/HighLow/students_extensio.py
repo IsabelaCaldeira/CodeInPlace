@@ -3,7 +3,7 @@ import random
 NUM_ROUNDS = 5
 
 def main():
-    # Have a number generated from 10-100 and allow a guess to be made higher or lower. 
+    # Have a number generated from 1-100 and allow a guess to be made higher or lower. 
     # If correct guess is made a point is given, if wrong no point is given
     
     print("Welcome to the High-Low Game!")
@@ -33,8 +33,6 @@ def main():
         print("")
 
     print("Thanks for playing!")
-
-
 
 if __name__ == "__main__":
     main()
